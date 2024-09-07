@@ -1,0 +1,79 @@
+1638930203133	geckodriver	INFO	Listening on 127.0.0.1:51201
+1638930206190	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51202" "-no-remote" "-profile" "C:\\Users\\Ben\\AppData\\Local\\Temp\\rust_mozprofileizIZjf"
+1638930206653	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ben\\AppData\\Local\\Temp\\rust_mozprofileizIZjf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51202/devtools/browser/8b0b2f96-1fde-4bf4-bd1a-34dad2d69509
+1638930208380	Marionette	INFO	Listening on port 51207
+1638930208866	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.smythstoys.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3, line 1: unreachable code after return statement
+JavaScript warning: https://www.smythstoys.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3, line 1: unreachable code after return statement
+JavaScript warning: https://www.smythstoys.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.smythstoys.com/mbit-And-Dirers-him-Face-and-sure-such-Parry-qui, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638930344719	geckodriver	INFO	Listening on 127.0.0.1:51319
+1638930347771	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51320" "-no-remote" "-profile" "C:\\Users\\Ben\\AppData\\Local\\Temp\\rust_mozprofileaDFrER"
+1638930348170	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ben\\AppData\\Local\\Temp\\rust_mozprofileaDFrER\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51320/devtools/browser/d22d9366-ecd7-4b72-a87e-fb134833a29f
+1638930349832	Marionette	INFO	Listening on port 51327
+1638930349934	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.smythstoys.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=733415982, line 1: unreachable code after return statement
+JavaScript warning: https://www.smythstoys.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=733415982, line 1: unreachable code after return statement
+JavaScript warning: https://www.smythstoys.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=733415982 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.smythstoys.com/mbit-And-Dirers-him-Face-and-sure-such-Parry-qui, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638930429398	geckodriver	INFO	Listening on 127.0.0.1:51425
+1638930432479	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51426" "-no-remote" "-profile" "C:\\Users\\Ben\\AppData\\Local\\Temp\\rust_mozprofileVkauwr"
+1638930432694	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ben\\AppData\\Local\\Temp\\rust_mozprofileVkauwr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51426/devtools/browser/52fa9e9d-1698-46bb-a37c-3042b9a16424
+1638930434197	Marionette	INFO	Listening on port 51432
+1638930434519	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.smythstoys.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1678788032, line 1: unreachable code after return statement
+JavaScript warning: https://www.smythstoys.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1678788032, line 1: unreachable code after return statement
+JavaScript warning: https://www.smythstoys.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1678788032 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.smythstoys.com/mbit-And-Dirers-him-Face-and-sure-such-Parry-qui, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638930440357	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1638930448013	Marionette	INFO	Stopped listening on port 51432
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638930521090	geckodriver	INFO	Listening on 127.0.0.1:51546
+1638930524131	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51547" "-no-remote" "-profile" "C:\\Users\\Ben\\AppData\\Local\\Temp\\rust_mozprofiledHBLoW"
+1638930524331	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ben\\AppData\\Local\\Temp\\rust_mozprofiledHBLoW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51547/devtools/browser/bf070137-a9a3-435f-b480-3b8c9d71b86d
+1638930525733	Marionette	INFO	Listening on port 51553
+1638930526189	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.smythstoys.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3, line 1: unreachable code after return statement
+JavaScript warning: https://www.smythstoys.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3, line 1: unreachable code after return statement
+JavaScript warning: https://www.smythstoys.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.smythstoys.com/mbit-And-Dirers-him-Face-and-sure-such-Parry-qui, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638930605648	geckodriver	INFO	Listening on 127.0.0.1:51660
+1638930608727	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51661" "-no-remote" "-profile" "C:\\Users\\Ben\\AppData\\Local\\Temp\\rust_mozprofileSLcrNo"
+1638930608929	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ben\\AppData\\Local\\Temp\\rust_mozprofileSLcrNo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51661/devtools/browser/f795dbad-6b3e-45d4-9c4a-51e8f5d0b9ab
+1638930610381	Marionette	INFO	Listening on port 51667
+1638930610777	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.smythstoys.com/mbit-And-Dirers-him-Face-and-sure-such-Parry-qui, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638930625701	Marionette	INFO	Stopped listening on port 51667
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638930878211	geckodriver	INFO	Listening on 127.0.0.1:51780
+1638930881239	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51781" "-no-remote" "-profile" "C:\\Users\\Ben\\AppData\\Local\\Temp\\rust_mozprofileGDDod8"
+1638930881430	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ben\\AppData\\Local\\Temp\\rust_mozprofileGDDod8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51781/devtools/browser/f5993cbc-a3d6-4f0f-b294-b05273206b90
+1638930882754	Marionette	INFO	Listening on port 51786
+1638930882788	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638930925265	geckodriver	INFO	Listening on 127.0.0.1:51838
+1638930928317	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51839" "-no-remote" "-profile" "C:\\Users\\Ben\\AppData\\Local\\Temp\\rust_mozprofileMgq6cl"
+1638930928524	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ben\\AppData\\Local\\Temp\\rust_mozprofileMgq6cl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51839/devtools/browser/b71a79a3-9440-4b25-a3e6-3b766da502fd
+1638930929995	Marionette	INFO	Listening on port 51844
+1638930930363	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
